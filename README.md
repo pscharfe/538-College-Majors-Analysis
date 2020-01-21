@@ -3,5 +3,5 @@
 * Data includes only recent BA/BS graduates to get an up-to-date view of current economic outcomes
 * Begins by constructing new variables, e.g., share of recent grads working part-time
 * Exploratory data analysis with correlations, visualizations, and multiple linear regressions
-* Three algorithms (K-Means, kNN, and Hierarcichal Clustering) were used to build clusters of majors
+* Three algorithms (K-Means, KNN, and Hierarcichal Clustering) were used to build clusters of majors
 * Loops with different validation methods found the optimal number of clusters
