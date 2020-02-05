@@ -7,4 +7,4 @@
 * Loops with different validation methods found the optimal number of clusters
 * Principal Component Analysis was applied to visualize the two successful models: K-Means and Hierarchical Clustering
 * The PCA plot visualizing the K-Means clusters is as follows:
-<img src="kmeans_pca_plot.png" width="500">
+<img src="kmeans_pca_plot.png1" width="500">
